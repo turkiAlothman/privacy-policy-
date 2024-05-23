@@ -1,5 +1,5 @@
 
-# سياسة الخصوصية
+# سياسة الخصوصية لتطبيق جيرة
 
 ----------------
 
@@ -46,7 +46,7 @@
 
 
 
-Privacy Policy  
+Privacy Policy for Jeerah Application
 ----------------
 
 ### Introduction  
